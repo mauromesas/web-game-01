@@ -1,1 +1,1 @@
-# papel
+### Piedra, Papel o Tijeras.
